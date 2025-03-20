@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: chatbot-m1742482938849-model-config
+data:
+  MODEL_ENDPOINT: "http://chatbot-m1742482938849-model-server:8001"
